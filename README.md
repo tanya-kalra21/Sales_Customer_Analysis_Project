@@ -34,7 +34,7 @@ Tableau (Interactive Dashboards)
 Excel (Data Cleaning, Pivot Tables, Dashboards)
 
 --- 
-## FOLDER STRUCTURE 
+## Folder Structure 
 
 Sales_Customer_Analysis_Project/
 │
