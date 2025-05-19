@@ -57,7 +57,9 @@ Best-selling Sub-categories by Sales and Quantity.
 
 Applied professional formatting for clarity and presentation.
 
----
+--- 
+## Superstore Sales Dashboard
+![Superstore Sales Dashboard](../EXCEL/Superstore_Sales_Dashboard.png)
 
 ## 🔍 Key Insights
 
@@ -84,6 +86,4 @@ Applied professional formatting for clarity and presentation.
 - Conditional Formatting
 - Dashboard Design Best Practices
 
---- 
-## EXCEL DASHBOARD
-![Superstore Sales Dashboard](../EXCEL/Superstore Sales Dashboard.png)
+
