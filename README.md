@@ -35,14 +35,17 @@ Excel (Data Cleaning, Pivot Tables, Dashboards)
 
 --- 
 ## FOLDER STRUCTURE 
+
 Sales_Customer_Analysis_Project/
 │
 ├── README.md                            # Main project README
-│MODULE_READMES/                      #  Folder for module-wise READMEs
-├   ├── Sales Dashboard in Excel.md
-├   ├── Sales Analysis using Python.md
-├   ├── Sales Analysis using SQL.md
-├   └── Sales Dashboard in Tableau.md
+├
+└── MODULE_READMES/                      #  Folder for module-wise READMEs
+    ├── Sales Dashboard in Excel.md
+    ├── Sales Analysis using Python.md
+    ├── Sales Analysis using SQL.md
+    └── Sales Dashboard in Tableau.md
+│
 ├── DATA/                                # Raw & cleaned datasets
 │   └── Sample - Superstore.csv
 │
@@ -61,7 +64,8 @@ Sales_Customer_Analysis_Project/
 ├── Excel/                               # Excel dashboard & data
 │   ├── Superstore Sales Dashboard.png
 │   └── Superstore_Cleaned.xlsx
-│
+
+
 --- 
 
 ## How to Run / View Each Part
