@@ -121,6 +121,6 @@ Top N products parameter (to dynamically change chart based on product count)
 - Interactive Dashboard Design
 
 ---
-## DASHBOARD 
-
+## Tableau DASHBOARD 
+![Superstore Sales Dashboard](../Tableau/Superstore Sales Dashboard.png)
 

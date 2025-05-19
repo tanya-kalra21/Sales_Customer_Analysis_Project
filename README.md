@@ -1,11 +1,4 @@
-## Project Overview
-## Sales Analysis using Python
-## Sales Analysis using SQL
-## Sales Dashboard in Tableau
-## Sales Dashboard in Excel
-
-
-## 📊 Project Overview: Superstore Sales Analysis
+# 📊 Project Overview: Superstore Sales Analysis
 This project presents an end-to-end data analysis of Superstore sales data using Excel, Python, SQL, and Tableau. The goal was to uncover actionable insights that can help improve business decision-making around product performance, customer trends, regional sales, and profitability.
 
 The analysis was divided into four main stages:
@@ -44,36 +37,34 @@ Excel (Data Cleaning, Pivot Tables, Dashboards)
 ## FOLDER STRUCTURE 
 Sales_Customer_Analysis_Project/
 │
-├── README/
-│   ├── PROJECT_OVERVIEW.md
-│   ├── Sales Analysis using Python.md
-│   ├── Sales Analysis using SQL.md
-│   └── Sales Dashboard in Tableau.md
-│   ├── Sales Dashboard in Excel.md
-│
-├── DATA/
+├── README.md                            # Main project README
+│MODULE_READMES/                      #  Folder for module-wise READMEs
+├   ├── Sales Dashboard in Excel.md
+├   ├── Sales Analysis using Python.md
+├   ├── Sales Analysis using SQL.md
+├   └── Sales Dashboard in Tableau.md
+├── DATA/                                # Raw & cleaned datasets
 │   └── Sample - Superstore.csv
 │
-├── NOTEBOOKS/
-│   ├── Analysis.ipynb
-│   └── Sample - Superstore.csv
+├── NOTEBOOKS/                           # Python analysis notebook
+│   └── Analysis.ipynb
 │
-├── SQL/
+├── SQL/                                 # SQL scripts and cleaned data
 │   ├── Superstore_Clean_Data.xlsx
 │   ├── Table-Creation And Insertion.sql
 │   └── Analysis_queries.sql
 │
-├── Tableau/
+├── Tableau/                             # Tableau workbook & visuals
 │   ├── Final_Tableau Dashboard Analysis.twb
 │   └── Superstore Sales Dashboard.png
 │
-└── Excel/
-    ├── Superstore Sales Dashboard.png
-    └── Superstore_Cleaned.xlsx
-
+├── Excel/                               # Excel dashboard & data
+│   ├── Superstore Sales Dashboard.png
+│   └── Superstore_Cleaned.xlsx
+│
 --- 
 
-### How to Run / View Each Part
+## How to Run / View Each Part
 
 ### 1. Python Analysis
 - Navigate to: `NOTEBOOKS/Analysis.ipynb`
@@ -99,7 +90,7 @@ Sales_Customer_Analysis_Project/
 - Tool Required: Microsoft Excel
 - Dashboard Screenshot: `Superstore Sales Dashboard.png`
 - Dashboard Includes:
-  - KPIs, Filters (Region), Slicers (Ship Mode), Bar & Line Charts
+  - KPIs, Bar , Line and Pie Charts
 
 ---
 
@@ -114,7 +105,7 @@ Sales_Customer_Analysis_Project/
 ---
 
 ### 5. Project Documentation
-- Navigate to: `README/`
+- Navigate to: `MODULE_READMES/`
   - Each `.md` file provides deep-dive documentation for the specific module
   - Includes: Business goal, steps involved, key queries or visuals, insights
 

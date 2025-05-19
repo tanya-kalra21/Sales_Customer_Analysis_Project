@@ -85,4 +85,5 @@ Applied professional formatting for clarity and presentation.
 - Dashboard Design Best Practices
 
 --- 
-## DASHBOARD
+## EXCEL DASHBOARD
+![Superstore Sales Dashboard](../EXCEL/Superstore Sales Dashboard.png)
