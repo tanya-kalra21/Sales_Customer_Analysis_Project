@@ -75,8 +75,6 @@ Applied professional formatting for clarity and presentation.
 
 ❗ Some categories like Tables and Bookcases showed moderate sales but low profit, indicating possible issues with pricing or discounts.
 
-📌 Refer to the dashboard image below for a visual summary of this module’s output.
-
 ---
 
 ## 🧰 Tools & Skills Used
