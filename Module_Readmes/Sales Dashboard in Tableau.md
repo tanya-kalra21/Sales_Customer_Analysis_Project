@@ -92,6 +92,8 @@ Year filter (to view metrics year-wise)
 Top N products parameter (to dynamically change chart based on product count)
 
 ---
+## Superstore Sales Dashboard 
+![Superstore Sales Dashboard](../Tableau/Superstore_Sales_Dashboard.png)
 
 ## 🔍 Key Insights
 
@@ -107,9 +109,6 @@ Top N products parameter (to dynamically change chart based on product count)
 
 📍 Underperforming Areas: Some states like Texas or Illinois show room for improvement either in profit or sales, depending on trends.
 
-
-📌 Refer to the dashboard image below for a visual summary of this module’s output.
-
 --- 
 
 ## 🧰 Tools & Skills Used
@@ -120,7 +119,5 @@ Top N products parameter (to dynamically change chart based on product count)
 - Map and Scatter Plot Visuals
 - Interactive Dashboard Design
 
----
-## Tableau DASHBOARD 
-![Superstore Sales Dashboard](../Tableau/Superstore Sales Dashboard.png)
+
 
